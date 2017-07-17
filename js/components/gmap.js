@@ -30,7 +30,8 @@ window.initMap = function() {
 
   var customMapTypeId = 'custom_style';
 
-  var fremont = {lat: 37.55, lng: -121.97};
+  var fremont = {lat:37.550848,lng:-121.970979};
+	
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 6,
     scrollwheel: false,
