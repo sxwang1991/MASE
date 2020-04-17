@@ -45,61 +45,61 @@ div {
 }
 
 .header {
-  background-color: #1292EE;
+  background-color: #22AB24;
   border-radius: 5px 5px 0px 0px;
   color: white;
   
 }
 
 .second {
-  background-color: #F3FBFF;
-  color: #002651;
+  background-color: #1FAB40;
+  color: #1FAB40;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
   
 }
 
 .third {
-  background-color: #D6EDFF;
-  color: #002651;
+  background-color: #1DAB5B;
+  color: #1DAB5B;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
 }
 
 .fourth {
-  background-color: #A0D4FF;
-  color: #002651;
+  background-color: #1AAA77;
+  color: #1AAA77;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
 }
 
 .fifth {
-  background-color: #57B0FB;
-  color: #002651;
+  background-color: #18A38A;
+  color: #18A38A;
   color: #F9FAFA;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
 }
 
 .sixth {
-  background-color: #1292EE;
-  color: #002651;
+  background-color: #15A1AB;
+  color: #15A1AB;
   color: #F9FAFA;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
 }
 
 .seventh {
-  background-color: #0077CC;
-  color: #002651;
+  background-color: #0F82F2;
+  color: #0F82F2;
   color: #F9FAFA;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
 }
 
 .eighth {
-  background-color: #005CA4;
-  color: #002651;
+  background-color: #2363E8;
+  color: #2363E8;
   color: #F9FAFA;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
@@ -107,8 +107,8 @@ div {
 }
 
 .ninth {
-  background-color: #034077;
-  color: #002651;
+  background-color: #4A40DE;
+  color: #4A40DE;
   color: #F9FAFA;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
   transition-duration: .1s;
@@ -116,8 +116,8 @@ div {
 }
 
 .tenth {
-  background-color: #002651;
-  color: #002651;
+  background-color: #6F27CC;
+  color: #6F27CC;
   border-radius: 0px 0px 5px 5px;
   color: #F9FAFA;
   transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
@@ -126,8 +126,8 @@ div {
 }
 
 .second:hover {
-  background-color: #F3FBFF;
-  color: #002651;
+  background-color: #1FAB40;
+  color: #1FAB40;
   border-radius: 2px 2px 2px 2px;
   transform: scale(1.1);
   box-shadow: -1px 13px 25px -5px rgba(0,0,0,0.13);
@@ -136,8 +136,8 @@ div {
 }
 
 .third:hover {
-  background-color: #D6EDFF;
-  color: #002651;
+  background-color: #1DAB5B;
+  color: #1DAB5B;
   border-radius: 2px 2px 2px 2px;
   transform: scale(1.1);
   box-shadow: -1px 13px 25px -5px rgba(0,0,0,0.13);
@@ -146,8 +146,8 @@ div {
 }
 
 .fourth:hover {
-  background-color: #A0D4FF;
-  color: #002651;
+  background-color: #1AAA77;
+  color: #1AAA77;
   border-radius: 2px 2px 2px 2px;
   transform: scale(1.1);
   box-shadow: -1px 13px 25px -5px rgba(0,0,0,0.13);
@@ -156,8 +156,8 @@ div {
 }
 
 .fifth:hover {
-  background-color: #57B0FB;
-  color: #002651;
+  background-color: #18A38A;
+  color: #18A38A;
   border-radius: 2px 2px 2px 2px;
   color: #F9FAFA;
   transform: scale(1.1);
@@ -167,8 +167,8 @@ div {
 }
 
 .sixth:hover {
-  background-color: #1292EE;
-  color: #002651;
+  background-color: #15A1AB;
+  color: #15A1AB;
   border-radius: 2px 2px 2px 2px;
   color: #F9FAFA;
   transform: scale(1.1);
@@ -178,8 +178,8 @@ div {
 }
 
 .seventh:hover {
-  background-color: #0077CC;
-  color: #002651;
+  background-color: #0F82F2;
+  color: #0F82F2;
   border-radius: 2px 2px 2px 2px;
   color: #F9FAFA;
   transform: scale(1.1);
@@ -189,8 +189,8 @@ div {
 }
 
 .eighth:hover {
-  background-color: #005CA4;
-  color: #002651;
+  background-color: #2363E8;
+  color: #2363E8;
   border-radius: 2px 2px 2px 2px;
   color: #F9FAFA;
   transform: scale(1.1);
@@ -200,8 +200,8 @@ div {
 }
 
 .ninth:hover {
-  background-color: #034077;
-  color: #002651;
+  background-color: #4A40DE;
+  color: #4A40DE;
   border-radius: 2px 2px 2px 2px;
   color: #F9FAFA;
   transform: scale(1.1);
@@ -211,8 +211,8 @@ div {
 }
 
 .tenth:hover {
-  background-color: #002651;
-  color: #002651;
+  background-color: #6F27CC;
+  color: #6F27CC;
   border-radius: 2px 2px 2px 2px;
   color: #F9FAFA;
   transform: scale(1.1);
